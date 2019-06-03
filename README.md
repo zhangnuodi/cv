@@ -1,11 +1,8 @@
-# Nuodi Zhang     <font face="宋体" size="+6">张诺迪</font>
-<span style="font-size:18px ;"><html>
-       <head>
-       <body>
-       <p>39-17 Tongcheng Street, Longzeyuan Road | Changping, Beijing 102208</p>
-       <p>zhangnuodi@bupt.edu.cn |（86）131-4630-8526</p>
-       </body> 
+# Nuodi Zhang  张诺迪
+39-17 Tongcheng Street, Longzeyuan Road | Changping, Beijing 102208  
+zhangnuodi@bupt.edu.cn |（86）131-4630-8526  
 <br />
+
 ### EDUCATION
 >---
 2015-2018
