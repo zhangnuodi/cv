@@ -28,7 +28,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 ---
 “An Empirical Study of the Effects of Flipped Class on Engineering Students’ Academic Writing Skills”. [Annual Conference of Asia ESP & Chinese National Symposium on ESP](http://2017.asiaesp.com/), [Beijing Foreign Studies University](http://bfsu.admissions.cn/), Beijing, October 2017
 <ul>
-<li>Attended the conference and made a representation of the submitted abstract, which was based on an instructional experiment of flipped classroom on two English academic writing classes. The preliminary results indicate that 1) flipped class as a new teaching approach has some positive effects on students’ academic writing skills; 2) for students, flipped class is a challenging and demanding teaching methodology, engaging in group work helps them develop a sense of community.</li>
+<li>Attended the conference and made the representation, which was based on an instructional experiment of flipped classroom on two English academic writing classes. The preliminary results indicate that 1) flipped class, as a new teaching approach, has some positive effects on students’ academic writing skills; 2) for students, flipped class is a challenging and demanding teaching methodology, engaging in group work helps them develop a sense of community.</li>
 </ul>  
 <br />
 
@@ -36,17 +36,17 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 ---
 #### Teaching Assistant,2017-2018  
 <ul>
-<li>Teaching assistant of postgraduate and sophomore classes, supported the teacher in certain teaching activities, including answering questions and explain concepts. Also made presentations on academic writing and biography composition.</li>
+<li>Teaching assistant of postgraduate and sophomore classes, supported the professor in certain teaching activities, including answering questions and explaining concepts. Also made presentations on academic writing and biography writing.</li>
 </ul>
 
 #### Research Assistant, 2016-2017  
 <ul>
-<li>Responsible for the searching and collection of literature on second language learning and language teaching;</li>
+<li>Responsible for searching and collection of literature on second language learning and language teaching;</li>
 </ul>
 
 #### Academic Activity, 2016.7  
 <ul>
-<li>On The 12th Academic Forum of Postgraduates in BUPT, published The Development and Feasibility of the Flipped Classroom in the English Language Teaching, and was awarded with “Excellent Paper Prize”. The paper reviews the previous researches related to FCR and concentrates on four important aspects: its origin, development, definition and effects in the English Teaching classroom.</li>
+<li>Published "The Development and Feasibility of the Flipped Classroom in the English Language Teaching", and was awarded with “Excellent Paper Award” on The 12th Academic Forum of Postgraduates in BUPT. The paper reviews the previous researches related to FCR and concentrates on four important aspects: its origin, development, definition and effects in the English Teaching classroom.</li>
 </ul>
 <br />  
 
@@ -54,7 +54,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 ### INVITED TALKS  
 ---
 <ul>
-<li>Designed the teaching plan on the ground of course book and semester duration. “Instruction on the Writing of Biography” English Academic Writing Class, Hongfu Campus, [Beijing University of Posts and Telecommunications]( https://www.bupt.edu.cn/), April 2017</li>
+<li>“Instruction on the Writing of Biography” English Academic Writing Class, Hongfu Campus, [Beijing University of Posts and Telecommunications]( https://www.bupt.edu.cn/), April 2017</li>
 </ul>
 <ul>
 <li>“The Use of Questionnaires in an Empirical Study” Second Language Acquisition Class, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), November 2017</li>
@@ -66,10 +66,10 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 #### English Teacher, Beijing University of Posts and Telecommunications, 2017.2-2017.9  
 #### English Intensive Reading
 <ul>
-<li>Designed the teaching plan on the ground of course book and semester duration.</li>
+<li>Designed the teaching plan on the ground of course book and academic calender.</li>
 </ul>
 <ul>
-<li>Incorporated writing activities and presentation sessions with a view to enhancing the students’ ability to reprocess the language competence and generate the desired output.</li>
+<li>Incorporated writing activities and presentations with a view to enhancing the students’ ability to reprocess the language input and produce the desired output.</li>
 </ul>  
 <br />
 
@@ -78,10 +78,10 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 #### English Teacher, Zhengzhou Shicheng Education ltd., 2015.4-2015.9  
 #### English 
 <ul>
-<li>Designed and taught elective courses on college/high school entrance examination.</li>
+<li>Taught and prepared the students for high school/college entrance examination.</li>
 </ul>
 <ul>
-<li>Adopted a one-to-one teaching mode.</li>
+<li>Adopted the methodology of one-to-one instruction.</li>
 </ul>  
 <br />
 
@@ -89,5 +89,5 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 ---
 #### Translator, [Beijing Keyes Education, Ltd.](https://kidsrkids.com/the-kids-r-kids-story/), 2016.7-2016.9
 <ul>
-<li>Worked as a translator of course books of Kids R Kids Learning Academy, as well as Curriculum and Book of Teaching Objects.</li>
+<li>Translated course books of Kids R Kids Learning Academy, as well as Curriculum and Book of Teaching Objects.</li>
 </ul> 
