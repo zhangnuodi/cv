@@ -76,7 +76,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 <br />
 
 ### OTHER TEACHING EXPERIENCE
->---<br />
+---<br />
 #### English Teacher, Zhengzhou Shicheng Education ltd., 2015.4-2015.9  
 #### English 
 <ul>
@@ -88,7 +88,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 <br />
 
 ### WORKING EXPERIENCE
->---<br />
+---<br />
 #### Translator, [Beijing Keyes Education, Ltd.](https://kidsrkids.com/the-kids-r-kids-story/), 2016.7-2016.9
 <ul>
 <li>Worked as a translator of course books of Kids R Kids Learning Academy, as well as Curriculum and Book of Teaching Objects.</li>
