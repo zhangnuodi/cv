@@ -9,7 +9,7 @@ zhangnuodi@bupt.edu.cn |（86）131-4630-8526
 <br />
 
 ### EDUCATION
->---
+---
 2015-2018
 <ul>
 <li> M.A., Applied Linguistics, [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/), Beijing</li>
@@ -22,12 +22,12 @@ zhangnuodi@bupt.edu.cn |（86）131-4630-8526
 <br />
 
 ### RESEARCH INTEREST
->---
+---
 Second Language Acquisition, English Language Teaching, Computer-assisted Language Teaching, English Academic Writing  
 <br />
 
 ### CONFERENCE PRESENTATION
->---
+---
 “An Empirical Study of the Effects of Flipped Class on Engineering Students’ Academic Writing Skills”. [Annual Conference of Asia ESP & Chinese National Symposium on ESP](http://2017.asiaesp.com/), [Beijing Foreign Studies University](http://bfsu.admissions.cn/), Beijing, October 2017
 <ul>
 <li>Attended the conference and made a representation of the submitted abstract, which was based on an instructional experiment of flipped classroom on two English academic writing classes. The preliminary results indicate that 1) flipped class as a new teaching approach has some positive effects on students’ academic writing skills; 2) for students, flipped class is a challenging and demanding teaching methodology, engaging in group work helps them develop a sense of community.</li>
@@ -35,7 +35,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 <br />
 
 ### RESEARCH EXPERIENCE  
->---
+---
 #### Teaching Assistant,2017-2018  
 <ul>
 <li>Teaching assistant of postgraduate and sophomore classes, supported the teacher in certain teaching activities, including answering questions and explain concepts. Also made presentations on academic writing and biography composition.</li>
@@ -54,7 +54,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 
 
 ### INVITED TALKS  
->---
+---
 <ul>
 <li>Designed the teaching plan on the ground of course book and semester duration. “Instruction on the Writing of Biography” English Academic Writing Class, Hongfu Campus, [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/), April 2017</li>
 </ul>
@@ -64,7 +64,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 <br /> 
 
 ### COLLEGE TEACHING EXPERIENCE
->---
+---
 #### English Teacher, Beijing University of Posts and Telecommunications, 2017.2-2017.9  
 #### English Intensive Reading
 <ul>
