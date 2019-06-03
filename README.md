@@ -9,15 +9,13 @@ zhangnuodi@bupt.edu.cn |（86）131-4630-8526
 <br />
 
 ### EDUCATION
----
-2015-2018
+___
 <ul>
-<li> M.A., Applied Linguistics, [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/), Beijing</li>
+<li> M.A., Applied Linguistics, [Beijing University of Posts and Telecommunications]( https://english.bupt.edu.cn/), Beijing, 2015-2018 </li>
 </ul>
 
-2010-2014
 <ul>
-<li>B.A., Business Administration, [Jilin Agricultural University](https://school.cucas.edu.cn/Jilin-Agricultural-University-652/), Changchun</li>
+<li>B.A., Business Administration, [Jilin Agricultural University]( https://school.cucas.edu.cn/Jilin-Agricultural-University-652/), Changchun, 2010-2014</li>
 </ul>  
 <br />
 
@@ -56,10 +54,10 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 ### INVITED TALKS  
 ---
 <ul>
-<li>Designed the teaching plan on the ground of course book and semester duration. “Instruction on the Writing of Biography” English Academic Writing Class, Hongfu Campus, [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/), April 2017</li>
+<li>Designed the teaching plan on the ground of course book and semester duration. “Instruction on the Writing of Biography” English Academic Writing Class, Hongfu Campus, [Beijing University of Posts and Telecommunications]( https://english.bupt.edu.cn/), April 2017</li>
 </ul>
 <ul>
-<li>“The Use of Questionnaires in an Empirical Study” Second Language Acquisition Class, [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/), November 2017</li>
+<li>“The Use of Questionnaires in an Empirical Study” Second Language Acquisition Class, [Beijing University of Posts and Telecommunications]( https://english.bupt.edu.cn/), November 2017</li>
 </ul>  
 <br /> 
 
@@ -76,7 +74,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 <br />
 
 ### OTHER TEACHING EXPERIENCE
----<br />
+---
 #### English Teacher, Zhengzhou Shicheng Education ltd., 2015.4-2015.9  
 #### English 
 <ul>
@@ -88,7 +86,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 <br />
 
 ### WORKING EXPERIENCE
----<br />
+---
 #### Translator, [Beijing Keyes Education, Ltd.](https://kidsrkids.com/the-kids-r-kids-story/), 2016.7-2016.9
 <ul>
 <li>Worked as a translator of course books of Kids R Kids Learning Academy, as well as Curriculum and Book of Teaching Objects.</li>
