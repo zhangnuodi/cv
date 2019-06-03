@@ -28,7 +28,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 
 ### CONFERENCE PRESENTATION
 >---
-“An Empirical Study of the Effects of Flipped Class on Engineering Students’ Academic Writing Skills”. [Annual Conference of Asia ESP & Chinese National Symposium on ESP](http://2017.asiaesp.com/), [Beijing Foreign Studies University(http://bfsu.admissions.cn/)], Beijing, October 2017
+“An Empirical Study of the Effects of Flipped Class on Engineering Students’ Academic Writing Skills”. [Annual Conference of Asia ESP & Chinese National Symposium on ESP](http://2017.asiaesp.com/), [Beijing Foreign Studies University](http://bfsu.admissions.cn/), Beijing, October 2017
 <ul>
 <li>Attended the conference and made a representation of the submitted abstract, which was based on an instructional experiment of flipped classroom on two English academic writing classes. The preliminary results indicate that 1) flipped class as a new teaching approach has some positive effects on students’ academic writing skills; 2) for students, flipped class is a challenging and demanding teaching methodology, engaging in group work helps them develop a sense of community.</li>
 </ul>  
@@ -76,7 +76,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 <br />
 
 ### OTHER TEACHING EXPERIENCE
->---
+>---<br />
 #### English Teacher, Zhengzhou Shicheng Education ltd., 2015.4-2015.9  
 #### English 
 <ul>
@@ -88,7 +88,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 <br />
 
 ### WORKING EXPERIENCE
->---
+>---<br />
 #### Translator, [Beijing Keyes Education, Ltd.](https://kidsrkids.com/the-kids-r-kids-story/), 2016.7-2016.9
 <ul>
 <li>Worked as a translator of course books of Kids R Kids Learning Academy, as well as Curriculum and Book of Teaching Objects.</li>
