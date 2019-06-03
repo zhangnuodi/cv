@@ -63,7 +63,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 
 ### COLLEGE TEACHING EXPERIENCE
 ---
-#### English Teacher, Beijing University of Posts and Telecommunications, 2017.2-2017.9  
+#### English Teacher, Beijing University of Posts and Telecommunications, Spring 2017  
 #### English Intensive Reading
 <ul>
 <li>Designed the teaching plan on the ground of course book and academic calender.</li>
