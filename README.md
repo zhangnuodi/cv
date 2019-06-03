@@ -1,4 +1,4 @@
-# Nuodi Zhang  张诺迪
+# <span style="color:SteelBlue ;">Nuodi Zhang  张诺迪</span>
 <br />  
 
 
@@ -11,11 +11,11 @@ zhangnuodi@bupt.edu.cn |（86）131-4630-8526
 ### EDUCATION
 ___
 <ul>
-<li> M.A., Applied Linguistics, [Beijing University of Posts and Telecommunications]( https://english.bupt.edu.cn/), Beijing, 2015-2018 </li>
+<li> M.A., Applied Linguistics, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, 2015-2018 </li>
 </ul>
 
 <ul>
-<li>B.A., Business Administration, [Jilin Agricultural University]( https://school.cucas.edu.cn/Jilin-Agricultural-University-652/), Changchun, 2010-2014</li>
+<li>B.A., Business Administration, [Jilin Agricultural University](https://jlaueng.jlau.edu.cn/), Changchun, 2010-2014</li>
 </ul>  
 <br />
 
@@ -54,10 +54,10 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 ### INVITED TALKS  
 ---
 <ul>
-<li>Designed the teaching plan on the ground of course book and semester duration. “Instruction on the Writing of Biography” English Academic Writing Class, Hongfu Campus, [Beijing University of Posts and Telecommunications]( https://english.bupt.edu.cn/), April 2017</li>
+<li>Designed the teaching plan on the ground of course book and semester duration. “Instruction on the Writing of Biography” English Academic Writing Class, Hongfu Campus, [Beijing University of Posts and Telecommunications]( https://www.bupt.edu.cn/), April 2017</li>
 </ul>
 <ul>
-<li>“The Use of Questionnaires in an Empirical Study” Second Language Acquisition Class, [Beijing University of Posts and Telecommunications]( https://english.bupt.edu.cn/), November 2017</li>
+<li>“The Use of Questionnaires in an Empirical Study” Second Language Acquisition Class, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), November 2017</li>
 </ul>  
 <br /> 
 
