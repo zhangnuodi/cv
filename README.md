@@ -1,4 +1,8 @@
 # Nuodi Zhang  张诺迪
+<br />
+<br />
+###Ph.D. candidate  
+
 39-17 Tongcheng Street, Longzeyuan Road | Changping, Beijing 102208  
 zhangnuodi@bupt.edu.cn |（86）131-4630-8526  
 <br />
@@ -51,7 +55,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 ### INVITED TALKS  
 >---
 <ul>
-<li>	Designed the teaching plan on the ground of course book and semester duration. “Instruction on the Writing of Biography” English Academic Writing Class, Hongfu Campus, Beijing University of Posts and Telecommunications, April 2017</li>
+<li>Designed the teaching plan on the ground of course book and semester duration. “Instruction on the Writing of Biography” English Academic Writing Class, Hongfu Campus, Beijing University of Posts and Telecommunications, April 2017</li>
 </ul>
 <ul>
 <li>“The Use of Questionnaires in an Empirical Study” Second Language Acquisition Class, Beijing University of Posts and Telecommunications, November 2017</li>
