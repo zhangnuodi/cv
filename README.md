@@ -1,4 +1,4 @@
-# <span style="color:SteelBlue ;" >Nuodi Zhang 张诺迪</span> [cv](Nuodi Zhang-CV.pdf)
+# <span style="color:SteelBlue ;" >Nuodi Zhang 张诺迪</span> [cv](Nuodi Zhang-CV.pdf "PDF")
 <br />  
 
 <img src="https://github.com/zhangnuodi/cv/blob/master/Pic/nuodizhang.jpg" width="15%" height="15%" >  
