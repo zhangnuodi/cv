@@ -1,8 +1,7 @@
-# <span style="color:SteelBlue ;" >Nuodi Zhang  <font face="黑体">张诺迪</span>
+# <span style="color:SteelBlue ;" >Nuodi Zhang 张诺迪</span>
 <br />  
 
-<img src="https://github.com/zhangnuodi/cv/blob/master/Pic/WechatIMG11.png" width="15%" height="15%" 
-align=center>
+<img src="https://github.com/zhangnuodi/cv/blob/master/Pic/WechatIMG11.png" width="15%" height="15%">
 
 ### Ph.D. candidate  
 
@@ -13,13 +12,11 @@ zhangnuodi@bupt.edu.cn |（86）131-4630-8526
 ### EDUCATION
 ___
 <ul>
-<li> M.A., Applied Linguistics, [Beijing University of Posts and Telecommunications][1], Beijing, 2015-2018 </li>
-[1]:https://www.bupt.edu.cn/ "BUPT"
+<li> M.A., Applied Linguistics, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/ "BUPT"), Beijing, 2015-2018 </li>
 </ul>
 
 <ul>
-<li>B.A., Business Administration, [Jilin Agricultural University][2], Changchun, 2010-2014</li>
-[2]:https://jlaueng.jlau.edu.cn/ "JLAU"
+<li>B.A., Business Administration, [Jilin Agricultural University](https://jlaueng.jlau.edu.cn/ "JLAU"), Changchun, 2010-2014</li>
 </ul>  
 <br />
 
@@ -40,7 +37,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 ---
 #### Teaching Assistant,2017-2018  
 <ul>
-<li>Teaching assistant of postgraduate and sophomore classes, supported the professor in certain teaching activities, including answering questions and explaining concepts. Also made presentations on academic writing and biography writing.</li>
+<li>Teaching assistant in 2 classes of postgraduate and sophomore , supported the professor in certain teaching activities, including answering questions and explaining concepts. Also made presentations on academic writing and biography writing.</li>
 </ul>
 
 #### Research Assistant, 2016-2017  
@@ -50,7 +47,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 
 #### Academic Activity, 2016.7  
 <ul>
-<li>Published "The Development and Feasibility of the Flipped Classroom in the English Language Teaching", and was awarded with “Excellent Paper Award” on The 12th Academic Forum of Postgraduates in BUPT. The paper reviews the previous researches related to FCR and concentrates on four important aspects: its origin, development, definition and effects in the English Teaching classroom.</li>
+<li>Published "The Development and Feasibility of the Flipped Classroom in the English Language Teaching", and was awarded with “Excellent Paper Award” on the 12th Academic Forum of Postgraduates in BUPT. The paper reviews the previous researches related to FCR and concentrates on four important aspects: its origin, development, definition and effects in the English Teaching classroom.</li>
 </ul>
 <br />  
 
@@ -70,7 +67,7 @@ Second Language Acquisition, English Language Teaching, Computer-assisted Langua
 #### English Teacher, Beijing University of Posts and Telecommunications, Spring 2017  
 #### English Intensive Reading
 <ul>
-<li>Designed the teaching plan on the ground of course book and academic calender.</li>
+<li>Designed the teaching plan on the ground of course book and academic calendar.</li>
 </ul>
 <ul>
 <li>Incorporated writing activities and presentations with a view to enhancing the students’ ability to reprocess the language input and produce the desired output.</li>
