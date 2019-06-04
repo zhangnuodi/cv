@@ -1,4 +1,4 @@
-# <span style="color:SteelBlue ;" >Nuodi Zhang 张诺迪</span>
+# <span style="color:SteelBlue ;" >Nuodi Zhang 张诺迪</span> [cv](Nuodi Zhang-CV.pdf)
 <br />  
 
 <img src="https://github.com/zhangnuodi/cv/blob/master/Pic/WechatIMG11.png" width="15%" height="15%">
@@ -12,11 +12,11 @@ zhangnuodi@bupt.edu.cn |（86）131-4630-8526
 ### EDUCATION
 ___
 <ul>
-<li> M.A., Applied Linguistics, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/ "BUPT"), Beijing, 2015-2018 </li>
+<li> M.A., Applied Linguistics, [Beijing University of Posts and Telecommunications] (https://www.bupt.edu.cn/ "BUPT"), Beijing, 2015-2018 </li>
 </ul>
 
 <ul>
-<li>B.A., Business Administration, [Jilin Agricultural University](https://jlaueng.jlau.edu.cn/ "JLAU"), Changchun, 2010-2014</li>
+<li>B.A., Business Administration, [Jilin Agricultural University] (https://jlaueng.jlau.edu.cn/ "JLAU"), Changchun, 2010-2014</li>
 </ul>  
 <br />
 
