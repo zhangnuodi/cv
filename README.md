@@ -1,7 +1,8 @@
-# <span style="color:SteelBlue ;" font face="宋体">Nuodi Zhang  张诺迪</span>
+# <span style="color:SteelBlue ;" >Nuodi Zhang  <font face="黑体">张诺迪</span>
 <br />  
 
-<img src="https://github.com/zhangnuodi/cv/blob/master/Pic/WechatIMG11.png" width="15%" height="15%" style="margin-left:45px">
+<img src="https://github.com/zhangnuodi/cv/blob/master/Pic/WechatIMG11.png" width="15%" height="15%" 
+align=center>
 
 ### Ph.D. candidate  
 
