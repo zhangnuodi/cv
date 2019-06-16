@@ -1,7 +1,7 @@
 # <span style="color:SteelBlue ;" >Nuodi Zhang 张诺迪</span> [cv](Nuodi Zhang-CV.pdf "PDF")
 <br />  
 
-<img src="https://github.com/zhangnuodi/cv/Pic/WechatIMG67.jpeg" width="15%" height="15%" >  
+<img src="https://github.com/zhangnuodi/cv/blob/master/Pic/WechatIMG67.jpeg" width="15%" height="15%" >  
 <br />
 
 ### Ph.D. candidate  
