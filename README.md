@@ -1,4 +1,4 @@
-# <span style="color:SteelBlue ;" >Nuodi Zhang 张诺迪</span> [CURRICULUM VITAE](Nuodi Zhang-CV.pdf "PDF")
+# <span style="color:SteelBlue ;" >Nuodi Zhang 张诺迪</span> [CV-PDF](Nuodi Zhang-CV.pdf "PDF")
 <br />  
 
 <img src="https://github.com/zhangnuodi/cv/raw/master/Pic/WechatIMG67.jpeg" width="15%" height="15%" >  
