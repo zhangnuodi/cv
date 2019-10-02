@@ -23,12 +23,15 @@ ___
 Second Language Acquisition, English Language Teaching, Computer-assisted Language Teaching, English Academic Writing  
 <br />
 
-### CONFERENCE PRESENTATION
+### CONFERENCE 
 ---
-“An Empirical Study of the Effects of Flipped Class on Engineering Students’ Academic Writing Skills”. [Annual Conference of Asia ESP & Chinese National Symposium on ESP](http://2017.asiaesp.com/), [Beijing Foreign Studies University](http://bfsu.admissions.cn/), Beijing, October 2017
+“An Empirical Study of the Effects of Flipped Class on Engineering Students’ Academic Writing Skills”. [Annual Conference of Asia ESP & Chinese National Symposium on ESP](http://2017.asiaesp.com/), [Beijing Foreign Studies University](http://bfsu.admissions.cn/), Beijing, October, 2017
 <ul>
 <li>Attended the conference and made the representation, which was based on an instructional experiment of flipped classroom on two English academic writing classes. The preliminary results indicate that 1) flipped class, as a new teaching approach, has some positive effects on students’ academic writing skills; 2) for students, flipped class is a challenging and demanding teaching methodology, engaging in group work helps them develop a sense of community.</li>
 </ul>  
+<br />
+
+The 21st International Symposium in Functional Linguistics and Discourse Analysis, [Beijing Foreign Studies University](http://bfsu.admissions.cn/), Beijing, November, 2017
 <br />
 
 ### RESEARCH EXPERIENCE  
