@@ -18,7 +18,7 @@ zhangnuodi@bupt.edu.cn |（86）131-4630-8526
 Dissertation: An Empirical Study of Flipped Class in English Academic Writing Class of Engineering Students
 </ul>
 <ul>
-<li>B.A., Business Administration, [Jilin Agricultural University](https://jlaueng.jlau.edu.cn "JLAU"), China, 2010-2014</li>
+<li>B.A., Business Administration, [Jilin Agricultural University] (https://jlaueng.jlau.edu.cn "JLAU"), China, 2010-2014</li>
 </ul>
 <br />
 
@@ -98,7 +98,7 @@ Dissertation: An Empirical Study of Flipped Class in English Academic Writing Cl
 </ul>
 <br />
 
-#### Teaching Fellow, Beijing University of Posts and Telecommunications, Feb.2017 –Jul.2017  
+#### Teaching Fellow, Beijing University of Posts and Telecommunications, Feb.2017 – Jul.2017  
 ##### English: College English: Intensive Reading
 <ul>
 <li>Designed the teaching plan on the ground of course book and academic calendar.</li>
@@ -108,7 +108,7 @@ Dissertation: An Empirical Study of Flipped Class in English Academic Writing Cl
 </ul>  
 <br />
 
-#### English Teacher, Zhengzhou Shicheng Education ltd., 2015.4-2015.9  
+#### English Teacher, Zhengzhou Shicheng Education ltd., Apr.2015 - Sept.2015  
 ##### English 
 <ul>
 <li>Taught English 8-9 and 10-12 to prepare them for high school/college entrance examination.</li>
