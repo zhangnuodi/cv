@@ -13,12 +13,12 @@ zhangnuodi@bupt.edu.cn |（86）131-4630-8526
 
 ### EDUCATION
 ---
-- M.A., Applied Linguistics, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn "BUPT"), Beijing, 2015-2018 
+- M.A., Applied Linguistics, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn "BUPT"), China, 2015-2018 
 <ul>
 Dissertation: An Empirical Study of Flipped Class in English Academic Writing Class of Engineering Students
 </ul>
 <ul>
-<li>B.A., Business Administration, [Jilin Agricultural University](https://jlaueng.jlau.edu.cn "JLAU"), Changchun, 2010-2014</li>
+<li>B.A., Business Administration, [Jilin Agricultural University](https://jlaueng.jlau.edu.cn "JLAU"), China, 2010-2014</li>
 </ul>
 <br />
 
