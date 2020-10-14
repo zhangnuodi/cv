@@ -7,31 +7,37 @@
 
 ### Ph.D. candidate  
 
-39-17 Tongcheng Street, Longzeyuan Road | Changping, Beijing 102208  
+Flat 4-601, Block 208, Huixin Residential Area, Xiaoguan Road | Chaoyang, Beijing, China 100029  
 zhangnuodi@bupt.edu.cn |（86）131-4630-8526  
 <br />
 
 ### EDUCATION
 ___
-- M.A., Applied Linguistics, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn "BUPT"), Beijing, 2015-2018 
-
-- B.A., Business Administration, [Jilin Agricultural University](https://jlaueng.jlau.edu.cn "JLAU"), Changchun, 2010-2014
+M.A., Applied Linguistics, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn "BUPT"), Beijing, 2015-2018 
+- Dissertation: An Empirical Study of Flipped Class in English Academic Writing Class of Engineering Students
+B.A., Business Administration, [Jilin Agricultural University](https://jlaueng.jlau.edu.cn "JLAU"), Changchun, 2010-2014
 <br />
 
-### RESEARCH INTEREST
+### RROJECT EXPERIENCE
 ---
-Second Language Acquisition, English Language Teaching, Computer-assisted Language Teaching, English Academic Writing  
+Teaching Innovation Project, Beijing University of Posts and Telecommunications, China          Dec.2016 - July.2017
+- Conducted a literature review in the area of ‘flipped class’ and engaged in a mixed study.
+- Assisted the instructor in designing teaching plan and gathering pre-test data.
+- Assisted in the creation of 5 instructional videos for flipped classroom.
+- Worked as a teaching assistant in the experimental class and observed classroom activity and student reaction to flipped classroom practice.
+- Adapted and translated an existing questionnaire to better fit the purpose of the study.
+- Handed out questionnaires to students in 2 classes and collected them.
+- Prepared interview questions and conducted an interview with voluntary students via WeChat.
+- Gathered post-test data at the end of the semester.
+- Logged and analyzed experimental data using SPSS.
+- Analyzed students’ papers in terms of different error types.
+
 <br />
 
-### CONFERENCE 
+### CONFERENCE EXPERIENCE
 ---
 “An Empirical Study of the Effects of Flipped Class on Engineering Students’ Academic Writing Skills”. [Annual Conference of Asia ESP & Chinese National Symposium on ESP](http://2017.asiaesp.com/), [Beijing Foreign Studies University](http://bfsu.admissions.cn/), Beijing, October, 2017
-<ul>
-<li>Attended the conference and made the representation, which was based on an instructional experiment of flipped classroom on two English academic writing classes. The preliminary results indicate that 1) flipped class, as a new teaching approach, has some positive effects on students’ academic writing skills; 2) for students, flipped class is a challenging and demanding teaching methodology, engaging in group work helps them develop a sense of community.</li>
-</ul>  
-<br />
 
-The 21st International Symposium in Functional Linguistics and Discourse Analysis, [Beijing Foreign Studies University](http://bfsu.admissions.cn/), Beijing, November, 2017
 <br />
 
 ### RESEARCH EXPERIENCE  
@@ -43,29 +49,51 @@ The 21st International Symposium in Functional Linguistics and Discourse Analysi
 
 #### Research Assistant, 2016-2017  
 <ul>
-<li>Responsible for searching and collection of literature on second language learning and language teaching;</li>
+<li>Met regularly with supervisor to discuss research assignments.</li>
+<li>Assisted in the acquisition of research materials from different facilities.</li>
 </ul>
 
-#### Academic Activity, 2016.7  
-<ul>
-<li>Published "The Development and Feasibility of the Flipped Classroom in the English Language Teaching", and was awarded with “Excellent Paper Award” on the 12th Academic Forum of Postgraduates in BUPT. The paper reviews the previous researches related to FCR and concentrates on four important aspects: its origin, development, definition and effects in the English Teaching classroom.</li>
-</ul>
 <br />  
 
 
 ### INVITED TALKS  
 ---
 <ul>
-<li>“Instruction on the Writing of Biography” English Academic Writing Class, Hongfu Campus, Beijing University of Posts and Telecommunications, April 2017</li>
+<li>"Teaching English to Second Language Learners in Academic Context", the 2nd Transcultural Communication Forum, Beijing University of Posts and Telecommunications, China 2017</li>
 </ul>
 <ul>
-<li>“The Use of Questionnaires in an Empirical Study” Second Language Acquisition Class, Beijing University of Posts and Telecommunications, November 2017</li>
+<li>“Instruction on the Writing of Biography” English Academic Writing Class, Hongfu Campus, Beijing University of Posts and Telecommunications, China 2017</li>
+</ul>
+<ul>
+<li>“The Use of Questionnaires in an Empirical Study” Second Language Acquisition Class, Beijing University of Posts and Telecommunications, China 2017</li>
 </ul>  
 <br /> 
 
-### COLLEGE TEACHING EXPERIENCE
+### TEACHING EXPERIENCE
 ---
-#### English Teacher, Beijing University of Posts and Telecommunications, Spring 2017  
+#### IELTS Speaking Teacher, New Oriental Education & Technology Group Inc, China, Jan.2020 – Present
+##### IELTS Speaking
+<ul>
+<li>Prepare teaching materials in forms of texts and videos.</li>
+</ul>
+<ul>
+<li>Design and teach face-to-face and online IELTS speaking courses to IELTS candidates.</li>
+</ul>  
+<ul>
+<li>Participate in IELTS speaking teaching and research activities on a weekly basis.</li>
+</ul> 
+<ul>
+<li>Support students from across majors and levels to boost confidence and improve fluency.</li>
+</ul> 
+<br />
+
+##### English Vocabulary / Grammar / Pronunciation
+<ul>
+<li>Teach basic-level vocabulary courses / basic and intermediate English grammar courses / American pronunciation with an emphasis on output.</li>
+</ul>
+<br />
+
+#### Teaching Fellow, Beijing University of Posts and Telecommunications, Feb.2017 –Jul.2017  
 #### English Intensive Reading
 <ul>
 <li>Designed the teaching plan on the ground of course book and academic calendar.</li>
@@ -75,21 +103,19 @@ The 21st International Symposium in Functional Linguistics and Discourse Analysi
 </ul>  
 <br />
 
-### OTHER TEACHING EXPERIENCE
----
 #### English Teacher, Zhengzhou Shicheng Education ltd., 2015.4-2015.9  
 #### English 
 <ul>
-<li>Taught and prepared the students for high school/college entrance examination.</li>
+<li>Taught English 8-9 and 10-12 to prepare them for high school/college entrance examination.</li>
 </ul>
-<ul>
-<li>Adopted the methodology of one-to-one instruction.</li>
-</ul>  
 <br />
 
-### WORKING EXPERIENCE
+### GRANTS AND HONORS
 ---
-#### Translator, [Beijing Keyes Education, Ltd.](https://kidsrkids.com/the-kids-r-kids-story/), 2016.7-2016.9
-<ul>
-<li>Translated course books of Kids R Kids Learning Academy, as well as Curriculum and Book of Teaching Objects.</li>
-</ul> 
+<li>Honorable Mention, the 2nd Transcultural Communication Forum, The International Chinese Training Center of BUPT, 2019</li>
+<li>The First Prize Scholarship, Beijing University of Posts and Telecommunications, 2017, 2018</li>
+<li>The Second Prize Scholarship, Beijing University of Posts and Telecommunications, 2016</li>
+<li>Excellent Paper Award, the 12th Academic Forum of Postgraduates, Beijing University of Posts and Telecommunications, 2016</li>
+<li>English Single Subject Scholarship, Jilin Agricultural University, 2011, 2012, 2013</li>
+<li>The Second Prize Scholarship, Jilin Agricultural University, 2013</li>
+
