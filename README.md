@@ -1,8 +1,8 @@
 # <span style="color:SteelBlue ;" >Nuodi Zhang 张诺迪</span> 
-[CV-PDF](Nuodi Zhang-CV-final.pdf "PDF")
+[CV-PDF](Zhang Nuodi_CV final version.pdf "PDF")
 <br />  
 
-<img src="https://github.com/zhangnuodi/cv/raw/master/Pic/WechatIMG67.jpeg" width="15%" height="15%" >  
+<img src="https://github.com/zhangnuodi/cv/raw/master/Pic/Screen Shot 2020-10-14 at 15.57.56.png" width="15%" height="15%" >  
 <br />
 
 ### Ph.D. candidate  
@@ -14,13 +14,17 @@ zhangnuodi@bupt.edu.cn |（86）131-4630-8526
 ### EDUCATION
 ___
 M.A., Applied Linguistics, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn "BUPT"), Beijing, 2015-2018 
-- Dissertation: An Empirical Study of Flipped Class in English Academic Writing Class of Engineering Students
+<ul>
+<li>Dissertation: An Empirical Study of Flipped Class in English Academic Writing Class of Engineering Students</li>
+</ul>
+<ul>
 B.A., Business Administration, [Jilin Agricultural University](https://jlaueng.jlau.edu.cn "JLAU"), Changchun, 2010-2014
+</ul>
 <br />
 
 ### RROJECT EXPERIENCE
 ---
-Teaching Innovation Project, Beijing University of Posts and Telecommunications, China          Dec.2016 - July.2017
+Teaching Innovation Project, Beijing University of Posts and Telecommunications, China, Dec.2016 - July.2017
 - Conducted a literature review in the area of ‘flipped class’ and engaged in a mixed study.
 - Assisted the instructor in designing teaching plan and gathering pre-test data.
 - Assisted in the creation of 5 instructional videos for flipped classroom.
@@ -34,9 +38,9 @@ Teaching Innovation Project, Beijing University of Posts and Telecommunications,
 
 <br />
 
-### CONFERENCE EXPERIENCE
+### CONFERENCE PRESENTATION
 ---
-“An Empirical Study of the Effects of Flipped Class on Engineering Students’ Academic Writing Skills”. [Annual Conference of Asia ESP & Chinese National Symposium on ESP](http://2017.asiaesp.com/), [Beijing Foreign Studies University](http://bfsu.admissions.cn/), Beijing, October, 2017
+“An Empirical Study of the Effects of Flipped Class on Engineering Students’ Academic Writing Skills”. [Annual Conference of Asia ESP & Chinese National Symposium on ESP](http://2017.asiaesp.com/), [Beijing Foreign Studies University](http://bfsu.admissions.cn/), Beijing, Oct.2017
 
 <br />
 
@@ -94,7 +98,7 @@ Teaching Innovation Project, Beijing University of Posts and Telecommunications,
 <br />
 
 #### Teaching Fellow, Beijing University of Posts and Telecommunications, Feb.2017 –Jul.2017  
-#### English Intensive Reading
+##### English: College English: Intensive Reading
 <ul>
 <li>Designed the teaching plan on the ground of course book and academic calendar.</li>
 </ul>
@@ -104,7 +108,7 @@ Teaching Innovation Project, Beijing University of Posts and Telecommunications,
 <br />
 
 #### English Teacher, Zhengzhou Shicheng Education ltd., 2015.4-2015.9  
-#### English 
+##### English 
 <ul>
 <li>Taught English 8-9 and 10-12 to prepare them for high school/college entrance examination.</li>
 </ul>
@@ -119,3 +123,7 @@ Teaching Innovation Project, Beijing University of Posts and Telecommunications,
 <li>English Single Subject Scholarship, Jilin Agricultural University, 2011, 2012, 2013</li>
 <li>The Second Prize Scholarship, Jilin Agricultural University, 2013</li>
 
+### GRANTS AND HONORS
+---
+Language: fluent in Chinese and English, basic Spanish
+Software Programs: Microsoft Office, Premier, Adobe Audition, SPSS, CiteSpace
