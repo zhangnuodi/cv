@@ -24,7 +24,7 @@ Dissertation: An Empirical Study of Flipped Class in English Academic Writing Cl
 
 ### RROJECT EXPERIENCE
 ---
-Teaching Innovation Project, Beijing University of Posts and Telecommunications, China, Dec.2016 - July.2017
+#### Teaching Innovation Project, Beijing University of Posts and Telecommunications, China, Dec.2016 - July.2017
 - Conducted a literature review in the area of ‘flipped class’ and engaged in a mixed study.
 - Assisted the instructor in designing teaching plan and gathering pre-test data.
 - Assisted in the creation of 5 instructional videos for flipped classroom.
@@ -46,14 +46,14 @@ Teaching Innovation Project, Beijing University of Posts and Telecommunications,
 
 ### RESEARCH EXPERIENCE  
 ---
-#### Teaching Assistant,2017-2018  
+#### Teaching Assistant, Beijing University of Posts and Telecommunications, China, 2017-2018  
 <ul>
 <li>Teaching assistant in 2 classes of postgraduate and sophomore , supported the professor in certain teaching activities, including answering questions and explaining concepts. Also made presentations on academic writing and biography writing.</li>
 </ul>
 
 <br /> 
 
-#### Research Assistant, 2016-2017  
+#### Research Assistant, Beijing University of Posts and Telecommunications, China, 2016-2017  
 <ul>
 <li>Met regularly with supervisor to discuss research assignments.</li>
 <li>Assisted in the acquisition of research materials from different facilities.</li>
@@ -65,7 +65,7 @@ Teaching Innovation Project, Beijing University of Posts and Telecommunications,
 ### INVITED TALKS  
 ---
 <ul>
-<li>"Teaching English to Second Language Learners in Academic Context", the 2nd Transcultural Communication Forum, Beijing University of Posts and Telecommunications, China 2017</li>
+<li>"Teaching English to Second Language Learners in Academic Context", the 2nd Transcultural Communication Forum, Beijing University of Posts and Telecommunications, China, 2019</li>
 </ul>
 <ul>
 <li>“Instruction on the Writing of Biography” English Academic Writing Class, Hongfu Campus, Beijing University of Posts and Telecommunications, China 2017</li>
