@@ -1,5 +1,5 @@
 # <span style="color:SteelBlue ;" >Nuodi Zhang 张诺迪</span> 
-[CV-PDF](Zhang Nuodi_CV final version.pdf "PDF")
+[CV](Zhang Nuodi_CV final version.pdf "PDF")
 <br />  
 
 <img src="https://github.com/zhangnuodi/cv/raw/master/Pic/Screen Shot 2020-10-14 at 15.57.56.png" width="15%" height="15%" >  
@@ -17,6 +17,7 @@ zhangnuodi@bupt.edu.cn |（86）131-4630-8526
 <ul>
 Dissertation: An Empirical Study of Flipped Class in English Academic Writing Class of Engineering Students
 </ul>
+<br />
 <ul>
 - B.A., Business Administration, [Jilin Agricultural University](https://jlaueng.jlau.edu.cn "JLAU"), China, 2010-2014
 </ul>
