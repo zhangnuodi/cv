@@ -18,7 +18,7 @@ zhangnuodi@bupt.edu.cn |（86）131-4630-8526
 Dissertation: An Empirical Study of Flipped Class in English Academic Writing Class of Engineering Students
 </ul>
 <ul>
-<li>B.A., Business Administration, [Jilin Agricultural University] (https://jlaueng.jlau.edu.cn "JLAU"), China, 2010-2014</li>
+- B.A., Business Administration, [Jilin Agricultural University](https://jlaueng.jlau.edu.cn "JLAU"), China, 2010-2014
 </ul>
 <br />
 
