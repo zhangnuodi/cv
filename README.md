@@ -127,10 +127,6 @@ Dissertation: An Empirical Study of Flipped Class in English Academic Writing Cl
 
 ### SKILLS
 ---
-<ul>
-Language: fluent in Chinese and English, basic Spanish
-</ul>
-<ul>
-Software Programs: Microsoft Office, Premier, Adobe Audition, SPSS, CiteSpace
-</ul>
+- Language: fluent in Chinese and English, basic Spanish
+- Software Programs: Microsoft Office, Premier, Adobe Audition, SPSS, CiteSpace
 <br />
