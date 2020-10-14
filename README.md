@@ -123,6 +123,7 @@ Teaching Innovation Project, Beijing University of Posts and Telecommunications,
 <li>Excellent Paper Award, the 12th Academic Forum of Postgraduates, Beijing University of Posts and Telecommunications, 2016</li>
 <li>English Single Subject Scholarship, Jilin Agricultural University, 2011, 2012, 2013</li>
 <li>The Second Prize Scholarship, Jilin Agricultural University, 2013</li>
+<br />
 
 ### SKILLS
 ---
@@ -132,3 +133,4 @@ Language: fluent in Chinese and English, basic Spanish
 <ul>
 Software Programs: Microsoft Office, Premier, Adobe Audition, SPSS, CiteSpace
 </ul>
+<br />
