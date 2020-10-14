@@ -17,7 +17,9 @@ zhangnuodi@bupt.edu.cn |（86）131-4630-8526
 <ul>
 Dissertation: An Empirical Study of Flipped Class in English Academic Writing Class of Engineering Students
 </ul>
-- B.A., Business Administration, [Jilin Agricultural University](https://jlaueng.jlau.edu.cn "JLAU"), Changchun, 2010-2014
+<ul>
+<li>B.A., Business Administration, [Jilin Agricultural University](https://jlaueng.jlau.edu.cn "JLAU"), Changchun, 2010-2014</li>
+</ul>
 <br />
 
 ### RROJECT EXPERIENCE
@@ -48,6 +50,8 @@ Teaching Innovation Project, Beijing University of Posts and Telecommunications,
 <ul>
 <li>Teaching assistant in 2 classes of postgraduate and sophomore , supported the professor in certain teaching activities, including answering questions and explaining concepts. Also made presentations on academic writing and biography writing.</li>
 </ul>
+
+<br /> 
 
 #### Research Assistant, 2016-2017  
 <ul>
@@ -87,9 +91,7 @@ Teaching Innovation Project, Beijing University of Posts and Telecommunications,
 <ul>
 <li>Support students from across majors and levels to boost confidence and improve fluency.</li>
 </ul> 
-<ul>
-##### English Vocabulary / Grammar / Pronunciation
-</ul>
+##### English Vocabulary/Grammar/Pronunciation
 <ul>
 <li>Teach basic-level vocabulary courses / basic and intermediate English grammar courses / American pronunciation with an emphasis on output.</li>
 </ul>
